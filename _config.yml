@@ -2,7 +2,7 @@ title: ReL Studios
 description: Premium FiveM resources, scripts, and tools for RP servers
 url: "https://ReLStudiosDev.github.io"
 baseurl: "" # leave empty if deploying to root
-theme: jekyll-theme-slate
+theme: Modernist
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
