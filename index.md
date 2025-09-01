@@ -1,9 +1,8 @@
-import { Link } from 'react-router-dom'
-
-export const meta = {
-  title: 'ReLStudios - GTA/FiveM Development',
-  description: 'ReLStudios Dev: Premium FiveM scripts, tools, and resources for your server.'
-}
+---
+layout: page
+title: "ReLStudios"
+permalink: /
+---
 
 # Welcome to **ReLStudios**
 
