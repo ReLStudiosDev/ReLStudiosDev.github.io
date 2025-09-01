@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ReLStudios"
+title: "ReL Studios"
 permalink: /
 ---
 
