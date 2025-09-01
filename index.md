@@ -1,32 +1,39 @@
 ---
 layout: page
-title: "ReL Studios"
+title: "ReLStudios"
 permalink: /
 ---
 
 # Welcome to **ReLStudios**
 
-We create **premium FiveM resources, scripts, and tools** for RP servers and developers. Our goal is to deliver **quality, clean code, and polished functionality** for server owners and admins.
+We create **premium FiveM resources, scripts, and tools** for RP servers and developers. Our mission is to deliver **clean, efficient, and polished scripts** that enhance server functionality and provide a seamless experience for players and admins alike.
 
 ---
 
 ## 🛠️ Featured Projects
 
 ### Peace Time Script
-- Prevents combat during peace hours
-- Ghosts vehicles & players
-- HUD with active/inactive status
+- Prevent combat during server peace hours
+- Ghosts all vehicles and players to prevent collisions
+- Interactive HUD displaying Peace Time status
 
+### Version Checker
+- Automatically checks script versions against GitHub
+- Alerts if your resource is outdated
+- Easy integration with any FiveM resource
 
+### Burger Shop Simulator (Coming Soon)
+- Low-poly, fun, and interactive simulator
+- Perfect for RP servers looking for casual mini-games
 
 ---
 
 ## 📦 Why Choose ReLStudios?
 
-- Clean, modular scripts  
-- Full **Lua 5.4 support**  
-- Active updates and support  
-- Easy installation and documentation  
+- **Clean, modular code** for easy customization  
+- **Lua 5.4 support** for modern FiveM scripting  
+- **Regular updates** and active support  
+- Easy installation with clear documentation  
 
 ---
 
@@ -38,4 +45,4 @@ We create **premium FiveM resources, scripts, and tools** for RP servers and dev
 
 ---
 
-> “Quality scripts for your server, made by developers who care.”
+> “Quality scripts for your server, built by developers who care.”
